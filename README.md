@@ -1,9 +1,9 @@
 
 # Weather App
 
-Project to learn React and Jest.
-API call from openweathermap.org
-Enter a location and background changes if weather is above 18degrees. 
+Project to learn React and Jest.  
+API call from openweathermap.org. 
+Enter a location and background changes if weather is above 18degrees.  
 
 ![Weather](/public/Auckland.png "Auckland")
 ![Weather](/public/London.png "London")
