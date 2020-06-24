@@ -10,6 +10,9 @@ function App() {
   return (
     <div className="app">
       <main>
+        <div>
+          <h2>Welcome</h2>
+          </div>
         <div className="search-box">
           <input type="text" className="search-bar" placeholder="Search..."
           />
